@@ -64,6 +64,7 @@ else {
 	JOptionPane.showMessageDialog(null, "Incorrect! The correct answer was yee.");
 }
 	JOptionPane.showMessageDialog(null, "Your score in Photo Quiz was " + score);
+	
 	}
 
 	private static Component createImage(String imageUrl) throws MalformedURLException {
