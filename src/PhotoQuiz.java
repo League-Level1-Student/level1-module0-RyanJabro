@@ -74,6 +74,8 @@ else {
 		return imageLabel;
 	}
 
+
+
 	/* OPTIONAL */
 	// *14. add scoring to your quiz
 	// *15. make something happen when mouse enters image (imageComponent.addMouseMotionListener()) 
